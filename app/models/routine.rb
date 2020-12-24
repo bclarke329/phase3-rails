@@ -1,0 +1,4 @@
+class Routine < ApplicationRecord
+
+
+end 
